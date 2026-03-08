@@ -29,12 +29,12 @@ def leer_tableros(ruta_archivo):
         return None, None, None
 
 def formatear_salida(movimientos):
-    """Formatea la lista de movimientos como cadena separada por comas."""
+    """Hace el formato de la lista de movimientos como una string separada por comas."""
     if not movimientos:
         return "No se encontraron movimientos."
     
     salida = ",".join(movimientos)
-    print(f"Salida: {salida}")
+    print(f"{salida}")
     return salida
 
 
