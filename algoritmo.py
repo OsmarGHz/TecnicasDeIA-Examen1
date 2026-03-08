@@ -200,14 +200,14 @@ class IDAStar:
         raiz.f = self.calcular_f(raiz, limite_prof)
         umbral = raiz.f
         
-        nivel = 1
+        iteracion = 1
         
-        while nivel <= limite_prof:
-            print(f"Nivel: {nivel} | Umbral: {umbral:.4f}")
+        while True:
             tabu = {raiz.estado}
+            self.tabla_transposicion = {}
             
             resultado, nuevo_umbral, nodo_sol = self.busqueda_recursiva(
-                raiz, umbral, nivel, tabu, limite_prof
+                raiz, umbral, limite_prof, tabu, limite_prof
             )
             
             if resultado == "EXITO":
@@ -217,7 +217,7 @@ class IDAStar:
                 break
                 
             umbral = nuevo_umbral
-            nivel += 1
+            iteracion += 1
             
         return None
 
