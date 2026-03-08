@@ -90,18 +90,19 @@ def procesarDimension(dimension, archivoCsv, limite_tiempo):
             print(f"    -> {exitos} Resueltos | {fallos_tiempo} Timeouts | {fallos_profundidad} Sin Solución")
 
 
-def menuAnalizador():
-    nombreCsv = "resultados_analisis_ida_star.csv"
+def inicializarCsv(nombreCsv):
     if not os.path.exists(nombreCsv):
         with open(nombreCsv, mode='w', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(["Dimension", "Dificultad", "Archivo", "SolucionEncontrada", "TiempoSegundos", "MovimientosRealizados_o_Fallo"])
+
+def menuAnalizador():
     limite_tiempo_segundos = 120.0 
 
     while True:
         print("\n== Analizador IDA* ==")
-        print("1. Evaluar una dimension especifica")
-        print("2. Evaluar todo el dataset (3x3 a 8x8)")
+        print("1. Evaluar una dimension especifica (CSV individual)")
+        print("2. Evaluar todo el dataset (CSV global 3x3 a 8x8)")
         print(f"3. Configurar timeout (Actual: {limite_tiempo_segundos}s)")
         print("4. Salir")
         
@@ -109,18 +110,22 @@ def menuAnalizador():
         
         if opcion == '1':
             try:
-                dim = int(input("Ingresa la dimensión a evaluar (Ej. 3 para 3x3): "))
+                dim = int(input("Dimension a evaluar (ej. 3 para 3x3): "))
                 if dim >= 3:
+                    nombreCsv = f"resultados_IDA_star_{dim}x{dim}.csv"
+                    inicializarCsv(nombreCsv)
                     procesarDimension(dim, nombreCsv, limite_tiempo_segundos)
                     print(f"\nResultados guardados en: {nombreCsv}")
                 else:
-                    print("[ERROR] Dimensión inválida.")
+                    print("Dimension invalida.")
             except ValueError:
-                print("[ERROR] Ingresa un número válido.")
+                print("Ingresa un numero valido.")
                 
         elif opcion == '2':
             confirmar = input("Esto puede tardar bastante. Continuar? (s/n): ")
             if confirmar.lower() == 's':
+                nombreCsv = "resultados_IDA_star_Global_3x3_al_8x8.csv"
+                inicializarCsv(nombreCsv)
                 for dim in range(3, 9):
                     procesarDimension(dim, nombreCsv, limite_tiempo_segundos)
                 print(f"\nResultados guardados en: {nombreCsv}")
@@ -132,16 +137,16 @@ def menuAnalizador():
                     limite_tiempo_segundos = nuevo_tiempo
                     print(f"Limite actualizado a {limite_tiempo_segundos}s.")
                 else:
-                    print("[ERROR] El tiempo debe ser mayor a 0.")
+                    print("El tiempo debe ser mayor a 0.")
             except ValueError:
-                print("[ERROR] Ingresa un número válido.")
+                print("Ingresa un numero valido.")
                 
         elif opcion == '4':
             print("Saliendo...")
             break
             
         else:
-            print("\n[ERROR] Opción no válida.\n")
+            print("Opcion no valida.")
 
 if __name__ == "__main__":
     multiprocessing.freeze_support() 
