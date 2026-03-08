@@ -1,3 +1,4 @@
+Dimension,Dificultad,Archivo,SolucionEncontrada,TiempoSegundos,MovimientosRealizados_o_Fallo
 4x4,buenos_10,instancia_1.txt,True,0.0718,10
 4x4,buenos_10,instancia_10.txt,True,0.0613,10
 4x4,buenos_10,instancia_100.txt,True,0.0623,10

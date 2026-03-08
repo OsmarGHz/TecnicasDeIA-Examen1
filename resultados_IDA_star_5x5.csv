@@ -1,0 +1,301 @@
+Dimension,Dificultad,Archivo,SolucionEncontrada,TiempoSegundos,MovimientosRealizados_o_Fallo
+5x5,buenos_10,instancia_1.txt,True,0.0656,10
+5x5,buenos_10,instancia_10.txt,True,0.0519,10
+5x5,buenos_10,instancia_100.txt,True,0.0483,10
+5x5,buenos_10,instancia_11.txt,True,0.0499,10
+5x5,buenos_10,instancia_12.txt,True,0.0815,10
+5x5,buenos_10,instancia_13.txt,True,0.049,10
+5x5,buenos_10,instancia_14.txt,True,0.0504,10
+5x5,buenos_10,instancia_15.txt,True,0.0526,10
+5x5,buenos_10,instancia_16.txt,True,0.0558,10
+5x5,buenos_10,instancia_17.txt,True,0.0526,10
+5x5,buenos_10,instancia_18.txt,True,0.048,10
+5x5,buenos_10,instancia_19.txt,True,0.0492,10
+5x5,buenos_10,instancia_2.txt,True,0.0537,10
+5x5,buenos_10,instancia_20.txt,True,0.055,10
+5x5,buenos_10,instancia_21.txt,True,0.0493,10
+5x5,buenos_10,instancia_22.txt,True,0.0501,10
+5x5,buenos_10,instancia_23.txt,True,0.0488,10
+5x5,buenos_10,instancia_24.txt,True,0.0496,10
+5x5,buenos_10,instancia_25.txt,True,0.05,10
+5x5,buenos_10,instancia_26.txt,True,0.05,10
+5x5,buenos_10,instancia_27.txt,True,0.0503,10
+5x5,buenos_10,instancia_28.txt,True,0.062,10
+5x5,buenos_10,instancia_29.txt,True,0.0533,10
+5x5,buenos_10,instancia_3.txt,True,0.0511,10
+5x5,buenos_10,instancia_30.txt,True,0.0515,8
+5x5,buenos_10,instancia_31.txt,True,0.0494,10
+5x5,buenos_10,instancia_32.txt,True,0.049,10
+5x5,buenos_10,instancia_33.txt,True,0.0496,10
+5x5,buenos_10,instancia_34.txt,True,0.0514,10
+5x5,buenos_10,instancia_35.txt,True,0.0521,10
+5x5,buenos_10,instancia_36.txt,True,0.0685,10
+5x5,buenos_10,instancia_37.txt,True,0.0511,10
+5x5,buenos_10,instancia_38.txt,True,0.051,10
+5x5,buenos_10,instancia_39.txt,True,0.0494,10
+5x5,buenos_10,instancia_4.txt,True,0.0502,10
+5x5,buenos_10,instancia_40.txt,True,0.0491,10
+5x5,buenos_10,instancia_41.txt,True,0.0506,10
+5x5,buenos_10,instancia_42.txt,True,0.0492,10
+5x5,buenos_10,instancia_43.txt,True,0.0505,10
+5x5,buenos_10,instancia_44.txt,True,0.0492,10
+5x5,buenos_10,instancia_45.txt,True,0.0487,8
+5x5,buenos_10,instancia_46.txt,True,0.0506,10
+5x5,buenos_10,instancia_47.txt,True,0.0524,8
+5x5,buenos_10,instancia_48.txt,True,0.0523,10
+5x5,buenos_10,instancia_49.txt,True,0.0499,10
+5x5,buenos_10,instancia_5.txt,True,0.0483,10
+5x5,buenos_10,instancia_50.txt,True,0.0682,10
+5x5,buenos_10,instancia_51.txt,True,0.051,8
+5x5,buenos_10,instancia_52.txt,True,0.0723,10
+5x5,buenos_10,instancia_53.txt,True,0.0482,10
+5x5,buenos_10,instancia_54.txt,True,0.0503,10
+5x5,buenos_10,instancia_55.txt,True,0.0479,10
+5x5,buenos_10,instancia_56.txt,True,0.0501,10
+5x5,buenos_10,instancia_57.txt,True,0.0499,10
+5x5,buenos_10,instancia_58.txt,True,0.0522,10
+5x5,buenos_10,instancia_59.txt,True,0.0477,10
+5x5,buenos_10,instancia_6.txt,True,0.0498,10
+5x5,buenos_10,instancia_60.txt,True,0.0559,10
+5x5,buenos_10,instancia_61.txt,True,0.0652,10
+5x5,buenos_10,instancia_62.txt,True,0.0515,10
+5x5,buenos_10,instancia_63.txt,True,0.0526,10
+5x5,buenos_10,instancia_64.txt,True,0.0583,10
+5x5,buenos_10,instancia_65.txt,True,0.0478,10
+5x5,buenos_10,instancia_66.txt,True,0.0486,10
+5x5,buenos_10,instancia_67.txt,True,0.0474,10
+5x5,buenos_10,instancia_68.txt,True,0.0541,10
+5x5,buenos_10,instancia_69.txt,True,0.0529,10
+5x5,buenos_10,instancia_7.txt,True,0.0547,10
+5x5,buenos_10,instancia_70.txt,True,0.0538,10
+5x5,buenos_10,instancia_71.txt,True,0.0542,10
+5x5,buenos_10,instancia_72.txt,True,0.0649,10
+5x5,buenos_10,instancia_73.txt,True,0.0478,10
+5x5,buenos_10,instancia_74.txt,True,0.0472,10
+5x5,buenos_10,instancia_75.txt,True,0.0479,8
+5x5,buenos_10,instancia_76.txt,True,0.1659,10
+5x5,buenos_10,instancia_77.txt,True,0.0506,10
+5x5,buenos_10,instancia_78.txt,True,0.049,10
+5x5,buenos_10,instancia_79.txt,True,0.0533,10
+5x5,buenos_10,instancia_8.txt,True,0.049,10
+5x5,buenos_10,instancia_80.txt,True,0.0498,10
+5x5,buenos_10,instancia_81.txt,True,0.0498,10
+5x5,buenos_10,instancia_82.txt,True,0.0477,10
+5x5,buenos_10,instancia_83.txt,True,0.0493,10
+5x5,buenos_10,instancia_84.txt,True,0.0584,10
+5x5,buenos_10,instancia_85.txt,True,0.0631,10
+5x5,buenos_10,instancia_86.txt,True,0.0526,10
+5x5,buenos_10,instancia_87.txt,True,0.0508,10
+5x5,buenos_10,instancia_88.txt,True,0.0523,10
+5x5,buenos_10,instancia_89.txt,True,0.0504,8
+5x5,buenos_10,instancia_9.txt,True,0.0501,10
+5x5,buenos_10,instancia_90.txt,True,0.0488,10
+5x5,buenos_10,instancia_91.txt,True,0.0511,10
+5x5,buenos_10,instancia_92.txt,True,0.0479,10
+5x5,buenos_10,instancia_93.txt,True,0.0484,10
+5x5,buenos_10,instancia_94.txt,True,0.0518,10
+5x5,buenos_10,instancia_95.txt,True,0.0506,10
+5x5,buenos_10,instancia_96.txt,True,0.0487,10
+5x5,buenos_10,instancia_97.txt,True,0.0479,10
+5x5,buenos_10,instancia_98.txt,True,0.0476,10
+5x5,buenos_10,instancia_99.txt,True,0.0488,10
+5x5,regulares_20,instancia_1.txt,True,0.0629,20
+5x5,regulares_20,instancia_10.txt,True,0.1639,20
+5x5,regulares_20,instancia_100.txt,True,0.054,10
+5x5,regulares_20,instancia_11.txt,True,0.2078,20
+5x5,regulares_20,instancia_12.txt,True,0.0906,20
+5x5,regulares_20,instancia_13.txt,True,0.4269,20
+5x5,regulares_20,instancia_14.txt,True,0.583,18
+5x5,regulares_20,instancia_15.txt,True,0.8501,20
+5x5,regulares_20,instancia_16.txt,True,0.1546,20
+5x5,regulares_20,instancia_17.txt,True,0.3077,20
+5x5,regulares_20,instancia_18.txt,True,0.2569,20
+5x5,regulares_20,instancia_19.txt,True,1.2189,20
+5x5,regulares_20,instancia_2.txt,True,0.144,20
+5x5,regulares_20,instancia_20.txt,True,0.0521,20
+5x5,regulares_20,instancia_21.txt,True,0.1205,20
+5x5,regulares_20,instancia_22.txt,True,0.2147,20
+5x5,regulares_20,instancia_23.txt,True,0.0533,20
+5x5,regulares_20,instancia_24.txt,True,0.0497,16
+5x5,regulares_20,instancia_25.txt,True,0.1269,16
+5x5,regulares_20,instancia_26.txt,True,0.2303,20
+5x5,regulares_20,instancia_27.txt,True,0.141,18
+5x5,regulares_20,instancia_28.txt,True,1.6266,20
+5x5,regulares_20,instancia_29.txt,True,0.0576,24
+5x5,regulares_20,instancia_3.txt,True,0.0505,20
+5x5,regulares_20,instancia_30.txt,True,0.758,20
+5x5,regulares_20,instancia_31.txt,True,0.0514,20
+5x5,regulares_20,instancia_32.txt,True,0.0518,20
+5x5,regulares_20,instancia_33.txt,True,0.1087,20
+5x5,regulares_20,instancia_34.txt,True,0.4576,20
+5x5,regulares_20,instancia_35.txt,True,0.054,20
+5x5,regulares_20,instancia_36.txt,True,0.6161,20
+5x5,regulares_20,instancia_37.txt,True,1.5293,20
+5x5,regulares_20,instancia_38.txt,True,0.0544,14
+5x5,regulares_20,instancia_39.txt,True,1.0482,20
+5x5,regulares_20,instancia_4.txt,True,0.058,20
+5x5,regulares_20,instancia_40.txt,True,0.3583,18
+5x5,regulares_20,instancia_41.txt,True,0.0907,20
+5x5,regulares_20,instancia_42.txt,True,0.0511,20
+5x5,regulares_20,instancia_43.txt,True,0.4561,22
+5x5,regulares_20,instancia_44.txt,True,0.0894,20
+5x5,regulares_20,instancia_45.txt,True,0.054,20
+5x5,regulares_20,instancia_46.txt,True,0.0902,20
+5x5,regulares_20,instancia_47.txt,True,10.7624,20
+5x5,regulares_20,instancia_48.txt,True,0.1141,14
+5x5,regulares_20,instancia_49.txt,True,0.0547,20
+5x5,regulares_20,instancia_5.txt,True,0.2899,20
+5x5,regulares_20,instancia_50.txt,True,0.0622,18
+5x5,regulares_20,instancia_51.txt,True,0.0515,12
+5x5,regulares_20,instancia_52.txt,True,0.6968,18
+5x5,regulares_20,instancia_53.txt,True,0.0513,20
+5x5,regulares_20,instancia_54.txt,True,0.0567,20
+5x5,regulares_20,instancia_55.txt,True,0.1229,18
+5x5,regulares_20,instancia_56.txt,True,0.0763,20
+5x5,regulares_20,instancia_57.txt,True,0.2557,22
+5x5,regulares_20,instancia_58.txt,True,0.0681,20
+5x5,regulares_20,instancia_59.txt,True,0.4771,20
+5x5,regulares_20,instancia_6.txt,True,0.649,20
+5x5,regulares_20,instancia_60.txt,True,5.06,20
+5x5,regulares_20,instancia_61.txt,True,1.0255,18
+5x5,regulares_20,instancia_62.txt,True,0.2562,20
+5x5,regulares_20,instancia_63.txt,True,0.0541,20
+5x5,regulares_20,instancia_64.txt,True,0.2322,18
+5x5,regulares_20,instancia_65.txt,True,0.3172,18
+5x5,regulares_20,instancia_66.txt,True,0.511,18
+5x5,regulares_20,instancia_67.txt,True,0.0543,20
+5x5,regulares_20,instancia_68.txt,True,0.0622,20
+5x5,regulares_20,instancia_69.txt,True,2.9583,20
+5x5,regulares_20,instancia_7.txt,True,0.2525,20
+5x5,regulares_20,instancia_70.txt,True,0.0521,20
+5x5,regulares_20,instancia_71.txt,True,0.0528,20
+5x5,regulares_20,instancia_72.txt,True,0.05,20
+5x5,regulares_20,instancia_73.txt,True,0.0566,14
+5x5,regulares_20,instancia_74.txt,True,0.0999,20
+5x5,regulares_20,instancia_75.txt,True,0.5953,22
+5x5,regulares_20,instancia_76.txt,True,2.3457,20
+5x5,regulares_20,instancia_77.txt,True,0.0544,20
+5x5,regulares_20,instancia_78.txt,True,0.079,20
+5x5,regulares_20,instancia_79.txt,True,0.0547,20
+5x5,regulares_20,instancia_8.txt,True,1.2887,20
+5x5,regulares_20,instancia_80.txt,True,0.1117,20
+5x5,regulares_20,instancia_81.txt,True,11.5482,20
+5x5,regulares_20,instancia_82.txt,True,0.0548,20
+5x5,regulares_20,instancia_83.txt,True,0.0974,20
+5x5,regulares_20,instancia_84.txt,True,0.0527,24
+5x5,regulares_20,instancia_85.txt,True,0.6088,20
+5x5,regulares_20,instancia_86.txt,True,23.8662,20
+5x5,regulares_20,instancia_87.txt,True,1.6946,20
+5x5,regulares_20,instancia_88.txt,True,0.2957,18
+5x5,regulares_20,instancia_89.txt,True,0.0606,20
+5x5,regulares_20,instancia_9.txt,True,0.064,18
+5x5,regulares_20,instancia_90.txt,True,0.1219,20
+5x5,regulares_20,instancia_91.txt,True,0.0505,20
+5x5,regulares_20,instancia_92.txt,True,3.2212,18
+5x5,regulares_20,instancia_93.txt,True,0.3954,20
+5x5,regulares_20,instancia_94.txt,True,0.0525,20
+5x5,regulares_20,instancia_95.txt,True,0.0551,20
+5x5,regulares_20,instancia_96.txt,True,0.0508,20
+5x5,regulares_20,instancia_97.txt,True,0.0521,20
+5x5,regulares_20,instancia_98.txt,True,0.3879,20
+5x5,regulares_20,instancia_99.txt,True,0.1926,20
+5x5,malos_50,instancia_1.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_10.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_100.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_11.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_12.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_13.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_14.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_15.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_16.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_17.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_18.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_19.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_2.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_20.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_21.txt,True,29.1297,30
+5x5,malos_50,instancia_22.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_23.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_24.txt,True,13.3383,28
+5x5,malos_50,instancia_25.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_26.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_27.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_28.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_29.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_3.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_30.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_31.txt,True,4.2762,34
+5x5,malos_50,instancia_32.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_33.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_34.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_35.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_36.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_37.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_38.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_39.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_4.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_40.txt,True,37.3537,26
+5x5,malos_50,instancia_41.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_42.txt,True,33.7116,34
+5x5,malos_50,instancia_43.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_44.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_45.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_46.txt,True,41.4486,42
+5x5,malos_50,instancia_47.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_48.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_49.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_5.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_50.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_51.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_52.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_53.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_54.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_55.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_56.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_57.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_58.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_59.txt,True,41.8295,24
+5x5,malos_50,instancia_6.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_60.txt,True,46.9622,34
+5x5,malos_50,instancia_61.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_62.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_63.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_64.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_65.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_66.txt,True,85.546,30
+5x5,malos_50,instancia_67.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_68.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_69.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_7.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_70.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_71.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_72.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_73.txt,True,8.0714,36
+5x5,malos_50,instancia_74.txt,True,82.2049,38
+5x5,malos_50,instancia_75.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_76.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_77.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_78.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_79.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_8.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_80.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_81.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_82.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_83.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_84.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_85.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_86.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_87.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_88.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_89.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_9.txt,True,26.619,36
+5x5,malos_50,instancia_90.txt,True,1.2263,34
+5x5,malos_50,instancia_91.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_92.txt,True,95.4581,30
+5x5,malos_50,instancia_93.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_94.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_95.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_96.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_97.txt,False,120.0,Timeout (Tiempo Excedido)
+5x5,malos_50,instancia_98.txt,True,0.3764,28
+5x5,malos_50,instancia_99.txt,False,120.0,Timeout (Tiempo Excedido)

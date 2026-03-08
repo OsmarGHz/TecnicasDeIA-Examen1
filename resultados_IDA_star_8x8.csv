@@ -1,0 +1,301 @@
+Dimension,Dificultad,Archivo,SolucionEncontrada,TiempoSegundos,MovimientosRealizados_o_Fallo
+8x8,buenos_10,instancia_1.txt,True,2.284,10
+8x8,buenos_10,instancia_10.txt,True,10.0383,10
+8x8,buenos_10,instancia_100.txt,True,15.1098,10
+8x8,buenos_10,instancia_11.txt,True,1.907,10
+8x8,buenos_10,instancia_12.txt,True,4.2789,10
+8x8,buenos_10,instancia_13.txt,True,4.4647,10
+8x8,buenos_10,instancia_14.txt,True,1.1498,10
+8x8,buenos_10,instancia_15.txt,True,8.8237,10
+8x8,buenos_10,instancia_16.txt,True,6.4493,10
+8x8,buenos_10,instancia_17.txt,True,6.5919,10
+8x8,buenos_10,instancia_18.txt,True,7.5747,10
+8x8,buenos_10,instancia_19.txt,True,2.9501,10
+8x8,buenos_10,instancia_2.txt,True,7.5465,10
+8x8,buenos_10,instancia_20.txt,True,6.4873,10
+8x8,buenos_10,instancia_21.txt,True,3.1916,10
+8x8,buenos_10,instancia_22.txt,True,12.884,10
+8x8,buenos_10,instancia_23.txt,True,6.7535,10
+8x8,buenos_10,instancia_24.txt,True,8.8599,10
+8x8,buenos_10,instancia_25.txt,True,5.1486,10
+8x8,buenos_10,instancia_26.txt,True,5.342,10
+8x8,buenos_10,instancia_27.txt,True,11.6614,10
+8x8,buenos_10,instancia_28.txt,True,5.1355,10
+8x8,buenos_10,instancia_29.txt,True,12.2695,10
+8x8,buenos_10,instancia_3.txt,True,1.9657,10
+8x8,buenos_10,instancia_30.txt,True,5.8772,10
+8x8,buenos_10,instancia_31.txt,True,6.9269,10
+8x8,buenos_10,instancia_32.txt,True,2.1998,10
+8x8,buenos_10,instancia_33.txt,True,9.3631,10
+8x8,buenos_10,instancia_34.txt,True,3.5115,10
+8x8,buenos_10,instancia_35.txt,True,2.8437,10
+8x8,buenos_10,instancia_36.txt,True,1.6803,10
+8x8,buenos_10,instancia_37.txt,True,1.1375,10
+8x8,buenos_10,instancia_38.txt,True,11.9914,10
+8x8,buenos_10,instancia_39.txt,True,16.027,10
+8x8,buenos_10,instancia_4.txt,True,7.2956,10
+8x8,buenos_10,instancia_40.txt,True,2.3489,10
+8x8,buenos_10,instancia_41.txt,True,9.8087,10
+8x8,buenos_10,instancia_42.txt,True,24.1477,10
+8x8,buenos_10,instancia_43.txt,True,7.6256,10
+8x8,buenos_10,instancia_44.txt,True,5.6159,10
+8x8,buenos_10,instancia_45.txt,True,0.9742,10
+8x8,buenos_10,instancia_46.txt,True,5.8365,10
+8x8,buenos_10,instancia_47.txt,True,1.1476,10
+8x8,buenos_10,instancia_48.txt,True,22.1207,10
+8x8,buenos_10,instancia_49.txt,True,1.3481,8
+8x8,buenos_10,instancia_5.txt,True,0.8389,10
+8x8,buenos_10,instancia_50.txt,True,1.8375,10
+8x8,buenos_10,instancia_51.txt,True,3.9238,10
+8x8,buenos_10,instancia_52.txt,True,3.9072,10
+8x8,buenos_10,instancia_53.txt,True,5.79,10
+8x8,buenos_10,instancia_54.txt,True,2.1205,10
+8x8,buenos_10,instancia_55.txt,True,2.5379,10
+8x8,buenos_10,instancia_56.txt,True,5.7166,10
+8x8,buenos_10,instancia_57.txt,True,8.3474,10
+8x8,buenos_10,instancia_58.txt,True,5.6854,10
+8x8,buenos_10,instancia_59.txt,True,11.6947,10
+8x8,buenos_10,instancia_6.txt,True,3.0968,10
+8x8,buenos_10,instancia_60.txt,True,1.2472,10
+8x8,buenos_10,instancia_61.txt,True,8.1173,10
+8x8,buenos_10,instancia_62.txt,True,2.7718,10
+8x8,buenos_10,instancia_63.txt,True,3.6041,10
+8x8,buenos_10,instancia_64.txt,True,8.5538,10
+8x8,buenos_10,instancia_65.txt,True,0.7836,10
+8x8,buenos_10,instancia_66.txt,True,14.0123,10
+8x8,buenos_10,instancia_67.txt,True,8.0372,10
+8x8,buenos_10,instancia_68.txt,True,9.7848,10
+8x8,buenos_10,instancia_69.txt,True,1.857,10
+8x8,buenos_10,instancia_7.txt,True,3.6399,10
+8x8,buenos_10,instancia_70.txt,True,1.22,8
+8x8,buenos_10,instancia_71.txt,True,10.1402,10
+8x8,buenos_10,instancia_72.txt,True,0.9111,10
+8x8,buenos_10,instancia_73.txt,True,7.3121,10
+8x8,buenos_10,instancia_74.txt,True,6.36,10
+8x8,buenos_10,instancia_75.txt,True,1.8026,10
+8x8,buenos_10,instancia_76.txt,True,9.5509,10
+8x8,buenos_10,instancia_77.txt,True,3.7899,10
+8x8,buenos_10,instancia_78.txt,True,12.0955,10
+8x8,buenos_10,instancia_79.txt,True,4.2856,10
+8x8,buenos_10,instancia_8.txt,True,0.6192,10
+8x8,buenos_10,instancia_80.txt,True,12.5396,10
+8x8,buenos_10,instancia_81.txt,True,9.7638,10
+8x8,buenos_10,instancia_82.txt,True,2.6778,10
+8x8,buenos_10,instancia_83.txt,True,14.1281,10
+8x8,buenos_10,instancia_84.txt,True,2.2179,10
+8x8,buenos_10,instancia_85.txt,True,0.4995,10
+8x8,buenos_10,instancia_86.txt,True,1.2745,10
+8x8,buenos_10,instancia_87.txt,True,0.2087,6
+8x8,buenos_10,instancia_88.txt,True,11.2151,10
+8x8,buenos_10,instancia_89.txt,True,6.7401,10
+8x8,buenos_10,instancia_9.txt,True,4.805,10
+8x8,buenos_10,instancia_90.txt,True,13.0354,10
+8x8,buenos_10,instancia_91.txt,True,3.6667,10
+8x8,buenos_10,instancia_92.txt,True,2.1981,10
+8x8,buenos_10,instancia_93.txt,True,1.1038,10
+8x8,buenos_10,instancia_94.txt,True,17.326,10
+8x8,buenos_10,instancia_95.txt,True,2.9024,10
+8x8,buenos_10,instancia_96.txt,True,5.5421,10
+8x8,buenos_10,instancia_97.txt,True,3.8673,10
+8x8,buenos_10,instancia_98.txt,True,2.3147,10
+8x8,buenos_10,instancia_99.txt,True,0.7027,10
+8x8,regulares_20,instancia_1.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_10.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_100.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_11.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_12.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_13.txt,True,111.4148,12
+8x8,regulares_20,instancia_14.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_15.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_16.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_17.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_18.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_19.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_2.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_20.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_21.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_22.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_23.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_24.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_25.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_26.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_27.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_28.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_29.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_3.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_30.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_31.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_32.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_33.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_34.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_35.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_36.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_37.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_38.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_39.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_4.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_40.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_41.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_42.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_43.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_44.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_45.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_46.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_47.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_48.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_49.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_5.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_50.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_51.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_52.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_53.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_54.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_55.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_56.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_57.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_58.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_59.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_6.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_60.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_61.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_62.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_63.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_64.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_65.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_66.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_67.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_68.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_69.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_7.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_70.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_71.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_72.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_73.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_74.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_75.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_76.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_77.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_78.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_79.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_8.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_80.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_81.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_82.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_83.txt,True,1.107,12
+8x8,regulares_20,instancia_84.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_85.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_86.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_87.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_88.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_89.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_9.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_90.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_91.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_92.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_93.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_94.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_95.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_96.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_97.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_98.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,regulares_20,instancia_99.txt,True,83.0889,12
+8x8,malos_50,instancia_1.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_10.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_100.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_11.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_12.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_13.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_14.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_15.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_16.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_17.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_18.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_19.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_2.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_20.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_21.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_22.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_23.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_24.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_25.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_26.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_27.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_28.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_29.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_3.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_30.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_31.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_32.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_33.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_34.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_35.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_36.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_37.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_38.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_39.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_4.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_40.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_41.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_42.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_43.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_44.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_45.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_46.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_47.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_48.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_49.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_5.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_50.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_51.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_52.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_53.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_54.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_55.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_56.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_57.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_58.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_59.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_6.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_60.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_61.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_62.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_63.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_64.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_65.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_66.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_67.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_68.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_69.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_7.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_70.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_71.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_72.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_73.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_74.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_75.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_76.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_77.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_78.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_79.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_8.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_80.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_81.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_82.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_83.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_84.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_85.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_86.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_87.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_88.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_89.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_9.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_90.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_91.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_92.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_93.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_94.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_95.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_96.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_97.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_98.txt,False,120.0,Timeout (Tiempo Excedido)
+8x8,malos_50,instancia_99.txt,False,120.0,Timeout (Tiempo Excedido)
